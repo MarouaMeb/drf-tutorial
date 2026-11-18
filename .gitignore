@@ -1,0 +1,16 @@
+
+# Environnement virtuel
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Variables d'environnement
+.env
+
+# Éditeur
+.vscode/
+
+db.sqlite3
